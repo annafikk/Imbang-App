@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968527174558",
+    "project_id": "imbang-app",
+    "storage_bucket": "imbang-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968527174558:android:85e0d3772cf1a02193948f",
+        "android_client_info": {
+          "package_name": "com.imbang.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968527174558-eq2vjpnqor252qcfcbjlthdf04chvobo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMC70DF_KRe4fF43007AoMYu_eaV7WH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968527174558-eq2vjpnqor252qcfcbjlthdf04chvobo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
